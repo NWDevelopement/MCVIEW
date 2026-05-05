@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "9qnuyuGgaiLoAMXxI3q7Y"
+uri = "file://artifacts/mcview/public/mcview-project.zip"
+type = "unspecified"
+title = "MCView — Full Project Source (ZIP)"
